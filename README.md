@@ -140,7 +140,7 @@ http://localhost:3002/
 
 #### Docker compose
 
-[Hub 地址](https://hub.docker.com/repository/docker/chenzhaoyu94/chatgpt-web/general)
+
 
 ```yml
 version: '3'
@@ -231,5 +231,4 @@ A: `vscode` 请安装项目推荐插件，或手动安装 `Eslint` 插件。
   <img src="https://contrib.rocks/image?repo=Chanzhaoyu/chatgpt-web" />
 </a>
 
-## License
-MIT © [ChenZhaoYu](./license)
+

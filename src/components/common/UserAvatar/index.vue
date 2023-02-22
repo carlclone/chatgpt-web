@@ -1,9 +1,10 @@
 <script setup lang='ts'>
-import { GithubSite } from '@/components/custom'
+
 </script>
 
 <template>
-  <div class="flex items-center">
+  <div></div>
+  <!-- <div class="flex items-center">
     <div class="w-10 h-10 overflow-hidden rounded-full">
       <img class="object-cover" src="@/assets/avatar.jpg" alt="avatar">
     </div>
@@ -15,5 +16,5 @@ import { GithubSite } from '@/components/custom'
         <GithubSite />
       </p>
     </div>
-  </div>
+  </div> -->
 </template>
